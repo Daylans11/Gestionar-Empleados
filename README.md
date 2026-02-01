@@ -21,25 +21,32 @@ La aplicación valida que los campos no estén vacíos, muestra mensajes de aler
   - .NET Framework  
   - Windows Forms
 
-- **Base de datos:**
-  - No aplica (uso de archivos de texto)
-
 - **Entorno o IDE:**
   - Visual Studio
 
 ---
 
-## 🖼️ Imágenes de la Ejecución del Proyecto
-En esta sección se incluyen capturas de pantalla que muestran la ejecución del proyecto en distintos escenarios, tales como:
 
+## Funcionamiento del Sistema
 - Formulario de registro de empleados  
 - Mensajes de validación de campos  
 - Cuadro de diálogo para guardar el archivo  
 - Archivo de texto generado con los datos en formato de tabla  
 
-*(Las imágenes deben ser agregadas dentro del repositorio.)*
+<img width="511" height="493" alt="Captura de pantalla 2026-01-31 200521" src="https://github.com/user-attachments/assets/d7897ecb-51d2-4134-907e-1f0389aaaf23" />
 
----
+<img width="516" height="486" alt="Captura de pantalla 2026-01-31 200702" src="https://github.com/user-attachments/assets/ef191580-b699-4a8f-9454-9933374c250f" />
+
+<img width="665" height="620" alt="Captura de pantalla 2026-01-31 200802" src="https://github.com/user-attachments/assets/cac4a490-5e1b-4b5e-b9f5-40cb84da0d65" />
+
+<img width="512" height="489" alt="Captura de pantalla 2026-01-31 200829" src="https://github.com/user-attachments/assets/80284298-1656-4911-8d61-22bcc5a6092e" />
+
+<img width="512" height="487" alt="Captura de pantalla 2026-01-31 200942" src="https://github.com/user-attachments/assets/22420c15-9d45-443e-a39e-7416561bc4c1" />
+
+<img width="509" height="482" alt="Captura de pantalla 2026-01-31 200956" src="https://github.com/user-attachments/assets/81ebdf9f-0d80-4f50-8931-b303a315947a" />
+
+<img width="940" height="152" alt="Captura de pantalla 2026-01-31 201533" src="https://github.com/user-attachments/assets/634fbdab-c49e-4084-8b3c-902143debaca" />
+
 
 ## Uso o Ejecución
 1. Abrir el proyecto en **Visual Studio**.  
@@ -56,7 +63,7 @@ En esta sección se incluyen capturas de pantalla que muestran la ejecución del
 - **Nivel:** Secundaria Técnico Profesional  
 - **Módulo Formativo:** Desarrollo de Aplicaciones y Sistemas de Información  
 - **Curso / Sección:** *5to D-1*  
-- **Fecha:**31/01/2026 **  
+- ** Fecha: **31/01/2026 **  
 
 ---
 
@@ -66,4 +73,4 @@ En esta sección se incluyen capturas de pantalla que muestran la ejecución del
 
 - **Dylans J. Lesay**  
 - **Jostin Sierra**
-# Gestionar-Empleados
+
