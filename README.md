@@ -63,7 +63,7 @@ La aplicación valida que los campos no estén vacíos, muestra mensajes de aler
 - **Nivel:** Secundaria Técnico Profesional  
 - **Módulo Formativo:** Desarrollo de Aplicaciones y Sistemas de Información  
 - **Curso / Sección:** *5to D-1*  
-- ** Fecha:31/01/2026 **  
+- **Fecha:31/01/2026**  
 
 ---
 
